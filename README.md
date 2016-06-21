@@ -1,0 +1,2 @@
+# portafolio-wp
+wp theme
